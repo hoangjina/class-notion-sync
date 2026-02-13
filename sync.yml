@@ -1,0 +1,42 @@
+name: EDB School → Notion 주간 동기화
+
+on:
+  # 매주 월요일 한국시간 오전 8시 자동 실행 (UTC 일요일 23시)
+  schedule:
+    - cron: '0 23 * * 0'
+  
+  # 수동 실행도 가능 (GitHub에서 버튼 클릭)
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 코드 가져오기
+        uses: actions/checkout@v4
+
+      - name: Python 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 패키지 설치
+        run: |
+          pip install requests playwright
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: 동기화 실행
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DB_ID: ${{ secrets.NOTION_DB_ID }}
+        run: python sync.py
+
+      - name: 백업 데이터 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "📚 데이터 동기화 $(date +'%Y-%m-%d')"
+          git push
