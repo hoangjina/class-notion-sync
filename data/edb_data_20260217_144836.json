@@ -1,0 +1,374 @@
+{
+  "초급": [],
+  "낮초": [],
+  "낮중": [],
+  "낮중2": [
+    {
+      "id": "44bb81aa-cf01-4314-a4ba-5ecb7fcae04a",
+      "dataCollectionId": "Live939au0g9z2bq2w955b",
+      "data": {
+        "_manualSort_c2b032a5-891c-4fa5-a10c-e1ac9329efad": "3",
+        "url": "https://youtube.com/live/kJDxTyuuS2Y",
+        "image": "wix:image://v1/cc154f_6be36b0122404d6e875cfe80140a9df8~mv2.jpg/ChatGPT%20Image%202025%EB%85%84%204%EC%9B%94%2011%EC%9D%BC%20%EC%98%A4%ED%9B%84%2009_29_15_edited.jpg#originWidth=1000&originHeight=1024",
+        "_id": "44bb81aa-cf01-4314-a4ba-5ecb7fcae04a",
+        "_owner": "cc154f4f-b726-4c9b-9c83-546313419d99",
+        "_createdDate": {
+          "$date": "2025-04-22T16:15:11.112Z"
+        },
+        "text": "1",
+        "_updatedDate": {
+          "$date": "2026-02-13T05:14:41.679Z"
+        },
+        "url2": "https://www.youtube.com/shorts/CEwYRkH5hqQ",
+        "url1": "https://youtube.com/live/nJmBoFyW-og",
+        "title": "오늘 Live 생방송"
+      }
+    },
+    {
+      "id": "cf954c16-9f6f-4196-9689-b44785149dd5",
+      "dataCollectionId": "Live939au0g9z2bq2w955b",
+      "data": {
+        "_manualSort_c2b032a5-891c-4fa5-a10c-e1ac9329efad": "30k",
+        "url": "https://youtube.com/live/kJDxTyuuS2Y",
+        "image": "wix:image://v1/cc154f_920435b6cb55466bb6f3546eb4d906d8~mv2.png/Ben%EC%8C%A4_%ED%8E%B8%EC%A7%91%EB%B3%B8%20(1).png#originWidth=364&originHeight=364",
+        "_id": "cf954c16-9f6f-4196-9689-b44785149dd5",
+        "_owner": "791f7148-f921-4c75-a308-1a2d43ac8e26",
+        "_createdDate": {
+          "$date": "2026-02-13T03:03:34.546Z"
+        },
+        "text": "2",
+        "_updatedDate": {
+          "$date": "2026-02-13T05:14:42.829Z"
+        },
+        "url2": "https://www.youtube.com/shorts/CEwYRkH5hqQ",
+        "url1": "https://youtube.com/live/nJmBoFyW-og",
+        "title": "2월13일.금.재방송"
+      }
+    },
+    {
+      "id": "bef38650-5049-47a0-a01f-66a16b7451fd",
+      "dataCollectionId": "Live939au0g9z2bq2w955b",
+      "data": {
+        "_manualSort_c2b032a5-891c-4fa5-a10c-e1ac9329efad": "30m",
+        "url": "https://youtube.com/live/JnhakE14J70?feature=share",
+        "image": "wix:image://v1/cc154f_920435b6cb55466bb6f3546eb4d906d8~mv2.png/Ben%EC%8C%A4_%ED%8E%B8%EC%A7%91%EB%B3%B8%20(1).png#originWidth=364&originHeight=364",
+        "_id": "bef38650-5049-47a0-a01f-66a16b7451fd",
+        "_owner": "791f7148-f921-4c75-a308-1a2d43ac8e26",
+        "_createdDate": {
+          "$date": "2026-01-07T01:29:06.659Z"
+        },
+        "text": "3",
+        "_updatedDate": {
+          "$date": "2026-02-13T03:03:56.316Z"
+        },
+        "url2": "https://www.youtube.com/shorts/8HXKGlyq2QY",
+        "url1": "https://youtube.com/live/Jdb2b6zIGag",
+        "title": "2월12일.목.재방송",
+        "newField": "wix:document://v1/ugd/791f71_1eadc85acaec4a2cbeeb9474b1560b92.pdf/%EB%B8%94%EB%A3%A8_%EB%B6%80%EA%B5%90%EC%9E%AC_15%EA%B3%BC_%EB%8B%B5%EC%A7%80.pdf"
+      }
+    },
+    {
+      "id": "8f5e5b1d-3185-44c5-9739-7a12a7cb7442",
+      "dataCollectionId": "Live939au0g9z2bq2w955b",
+      "data": {
+        "_manualSort_c2b032a5-891c-4fa5-a10c-e1ac9329efad": "30o",
+        "url": "https://www.youtube.com/live/cdJt8pCMkDE",
+        "image": "wix:image://v1/cc154f_920435b6cb55466bb6f3546eb4d906d8~mv2.png/Ben%EC%8C%A4_%ED%8E%B8%EC%A7%91%EB%B3%B8%20(1).png#originWidth=364&originHeight=364",
+        "_id": "8f5e5b1d-3185-44c5-9739-7a12a7cb7442",
+        "_owner": "791f7148-f921-4c75-a308-1a2d43ac8e26",
+        "_createdDate": {
+          "$date": "2026-01-06T01:40:17.191Z"
+        },
+        "text": "4",
+        "_updatedDate": {
+          "$date": "2026-02-13T03:03:57.088Z"
+        },
+        "url2": "https://www.youtube.com/shorts/VLKKY3f0i2E",
+        "url1": "https://youtube.com/live/Jdb2b6zIGag",
+        "title": "2월11일.수.재방송",
+        "newField": "wix:document://v1/ugd/791f71_055983c829534982ae51246ee9e1b2ee.pdf/blue%2012~15%20%ED%86%B5%EB%B2%88%EC%97%AD%20%ED%9B%88%EB%A0%A8%20%EB%8B%B5%EC%A7%80.pdf"
+      }
+    },
+    {
+      "id": "4fb3bfc7-37c3-4c27-8135-032067e0b41f",
+      "dataCollectionId": "Live939au0g9z2bq2w955b",
+      "data": {
+        "_manualSort_c2b032a5-891c-4fa5-a10c-e1ac9329efad": "30q",
+        "url": "https://youtube.com/live/u0Q2jaR0muI",
+        "image": "wix:image://v1/cc154f_920435b6cb55466bb6f3546eb4d906d8~mv2.png/Ben%EC%8C%A4_%ED%8E%B8%EC%A7%91%EB%B3%B8%20(1).png#originWidth=364&originHeight=364",
+        "_id": "4fb3bfc7-37c3-4c27-8135-032067e0b41f",
+        "_owner": "70430b2c-091f-49d7-8a98-874fdf4056ef",
+        "_createdDate": {
+          "$date": "2025-12-22T03:13:30.966Z"
+        },
+        "text": "5",
+        "_updatedDate": {
+          "$date": "2026-02-13T03:03:57.837Z"
+        },
+        "url2": "https://www.youtube.com/shorts/P5dQ6Ry6LoY",
+        "url1": "https://youtube.com/live/__6hTzcezzQ",
+        "title": "2월10일.화.재방송",
+        "newField": "wix:document://v1/ugd/791f71_9ff08980d0524105966795c3c9b05441.pdf/%ED%8C%8C%EB%9E%91_%EB%B6%80%EA%B5%90%EC%9E%AC_13,14%EA%B3%BC_%EA%B5%AC%EB%8F%99%EC%82%AC_%EB%8B%B5%EC%A7%80.pdf"
+      }
+    },
+    {
+      "id": "57ff9455-1a89-47d4-9571-6894ae5c80b2",
+      "dataCollectionId": "Live939au0g9z2bq2w955b",
+      "data": {
+        "_manualSort_c2b032a5-891c-4fa5-a10c-e1ac9329efad": "30s",
+        "url": "https://youtube.com/live/xNXThQJ0ZZA",
+        "image": "wix:image://v1/cc154f_920435b6cb55466bb6f3546eb4d906d8~mv2.png/Ben%EC%8C%A4_%ED%8E%B8%EC%A7%91%EB%B3%B8%20(1).png#originWidth=364&originHeight=364",
+        "_id": "57ff9455-1a89-47d4-9571-6894ae5c80b2",
+        "_owner": "791f7148-f921-4c75-a308-1a2d43ac8e26",
+        "_createdDate": {
+          "$date": "2026-01-08T01:08:39.527Z"
+        },
+        "text": "6",
+        "_updatedDate": {
+          "$date": "2026-02-13T03:03:58.892Z"
+        },
+        "url2": "https://www.youtube.com/shorts/1t6WSsn4rhU",
+        "url1": "https://youtube.com/live/__6hTzcezzQ",
+        "title": "2월9일.월.재방송"
+      }
+    },
+    {
+      "id": "d07563ea-d989-4d6f-80dc-f0788f9bd732",
+      "dataCollectionId": "Live939au0g9z2bq2w955b",
+      "data": {
+        "_manualSort_c2b032a5-891c-4fa5-a10c-e1ac9329efad": "g",
+        "url": "https://youtube.com/live/BoSVCfxqMuU",
+        "image": "wix:image://v1/cc154f_920435b6cb55466bb6f3546eb4d906d8~mv2.png/Ben%EC%8C%A4_%ED%8E%B8%EC%A7%91%EB%B3%B8%20(1).png#originWidth=364&originHeight=364",
+        "_id": "d07563ea-d989-4d6f-80dc-f0788f9bd732",
+        "_owner": "cc154f4f-b726-4c9b-9c83-546313419d99",
+        "_createdDate": {
+          "$date": "2025-04-22T16:15:32.613Z"
+        },
+        "text": "7",
+        "_updatedDate": {
+          "$date": "2026-02-13T03:03:59.561Z"
+        },
+        "url2": "https://www.youtube.com/shorts/X9VMsotVF_M",
+        "url1": "https://youtube.com/live/5_CaTW6M-nk",
+        "title": "개강 Orientation.2월2일"
+      }
+    }
+  ],
+  "직장중급반": [
+    {
+      "id": "b49950b5-dc2e-49cb-92cb-6197eeb67330",
+      "dataCollectionId": "Live939au0gi89as22c955b",
+      "data": {
+        "_manualSort_6d792af1-5636-4cfd-a0cb-4ba64c161e97": "4",
+        "url": "https://youtube.com/live/ajbBawiC5kw",
+        "image": "wix:image://v1/cc154f_6be36b0122404d6e875cfe80140a9df8~mv2.jpg/ChatGPT%20Image%202025%EB%85%84%204%EC%9B%94%2011%EC%9D%BC%20%EC%98%A4%ED%9B%84%2009_29_15_edited.jpg#originWidth=1000&originHeight=1024",
+        "_id": "b49950b5-dc2e-49cb-92cb-6197eeb67330",
+        "_owner": "cc154f4f-b726-4c9b-9c83-546313419d99",
+        "_createdDate": {
+          "$date": "2025-04-22T16:22:20.818Z"
+        },
+        "_updatedDate": {
+          "$date": "2026-02-14T00:57:53.113Z"
+        },
+        "url2": "https://youtube.com/shorts/xDPdRW5AXIM?feature=share",
+        "title": "오늘 Live 생방송",
+        "newField1": "1"
+      }
+    },
+    {
+      "id": "13da8925-b6ad-4634-b5b0-2ed53aeee473",
+      "dataCollectionId": "Live939au0gi89as22c955b",
+      "data": {
+        "_manualSort_6d792af1-5636-4cfd-a0cb-4ba64c161e97": "43g",
+        "url": "https://youtube.com/live/ajbBawiC5kw",
+        "image": "wix:image://v1/cc154f_920435b6cb55466bb6f3546eb4d906d8~mv2.png/Ben%EC%8C%A4_%ED%8E%B8%EC%A7%91%EB%B3%B8%20(1).png#originWidth=364&originHeight=364",
+        "_id": "13da8925-b6ad-4634-b5b0-2ed53aeee473",
+        "_owner": "791f7148-f921-4c75-a308-1a2d43ac8e26",
+        "_createdDate": {
+          "$date": "2026-02-13T08:16:02.625Z"
+        },
+        "_updatedDate": {
+          "$date": "2026-02-13T08:16:46.159Z"
+        },
+        "url2": "https://youtube.com/shorts/xDPdRW5AXIM?feature=share",
+        "title": "2월13일.금.재방송",
+        "newField1": "2"
+      }
+    },
+    {
+      "id": "f522b60e-80e5-4f0f-aa04-fca73b3c376b",
+      "dataCollectionId": "Live939au0gi89as22c955b",
+      "data": {
+        "_manualSort_6d792af1-5636-4cfd-a0cb-4ba64c161e97": "43o",
+        "url": "https://youtube.com/live/Ly9R0X97pvI",
+        "image": "wix:image://v1/cc154f_920435b6cb55466bb6f3546eb4d906d8~mv2.png/Ben%EC%8C%A4_%ED%8E%B8%EC%A7%91%EB%B3%B8%20(1).png#originWidth=364&originHeight=364",
+        "_id": "f522b60e-80e5-4f0f-aa04-fca73b3c376b",
+        "_owner": "791f7148-f921-4c75-a308-1a2d43ac8e26",
+        "_createdDate": {
+          "$date": "2026-01-07T01:32:24.054Z"
+        },
+        "_updatedDate": {
+          "$date": "2026-02-13T08:16:27.653Z"
+        },
+        "url2": "https://youtube.com/shorts/dMlRD6qbYuk?feature=share",
+        "title": "2월11일.수.재방송",
+        "newField1": "3"
+      }
+    },
+    {
+      "id": "b031dc5f-d437-42ea-a0ce-b4cdc676ddaf",
+      "dataCollectionId": "Live939au0gi89as22c955b",
+      "data": {
+        "_manualSort_6d792af1-5636-4cfd-a0cb-4ba64c161e97": "44",
+        "url": "https://youtube.com/live/PgrDPAh21Ik",
+        "image": "wix:image://v1/cc154f_920435b6cb55466bb6f3546eb4d906d8~mv2.png/Ben%EC%8C%A4_%ED%8E%B8%EC%A7%91%EB%B3%B8%20(1).png#originWidth=364&originHeight=364",
+        "_id": "b031dc5f-d437-42ea-a0ce-b4cdc676ddaf",
+        "_owner": "70430b2c-091f-49d7-8a98-874fdf4056ef",
+        "_createdDate": {
+          "$date": "2025-11-10T10:30:37.857Z"
+        },
+        "_updatedDate": {
+          "$date": "2026-02-13T08:16:28.545Z"
+        },
+        "url2": "https://youtube.com/shorts/xjL-Y6VDx9o?feature=share",
+        "title": "2월9일.월.재방송",
+        "newField1": "4",
+        "newField": "wix:document://v1/ugd/791f71_813c054b958e4ac9b9b01f47df1f390f.pdf/%EB%AF%BC%ED%8A%B8%2011,12%20%EC%B6%94%EA%B0%80%EC%9E%90%EB%A3%8C.pdf"
+      }
+    },
+    {
+      "id": "f7b72c9b-17b9-4337-8495-71cd1e33d7a5",
+      "dataCollectionId": "Live939au0gi89as22c955b",
+      "data": {
+        "_manualSort_6d792af1-5636-4cfd-a0cb-4ba64c161e97": "g",
+        "url": "https://youtube.com/live/MVZNm6tAS0s",
+        "image": "wix:image://v1/cc154f_920435b6cb55466bb6f3546eb4d906d8~mv2.png/Ben%EC%8C%A4_%ED%8E%B8%EC%A7%91%EB%B3%B8%20(1).png#originWidth=364&originHeight=364",
+        "_id": "f7b72c9b-17b9-4337-8495-71cd1e33d7a5",
+        "_owner": "cc154f4f-b726-4c9b-9c83-546313419d99",
+        "_createdDate": {
+          "$date": "2025-04-22T16:24:20.071Z"
+        },
+        "_updatedDate": {
+          "$date": "2026-02-13T08:16:29.148Z"
+        },
+        "url2": "https://youtube.com/shorts/Vpc0v0KRGwA?feature=share",
+        "title": "개강 Orientation2월2일.월",
+        "newField1": "5"
+      }
+    }
+  ],
+  "직장초급반": [
+    {
+      "id": "97597dd1-37da-4c6d-9f46-642f3842a04f",
+      "dataCollectionId": "Live939au0gi89as22c9z6b",
+      "data": {
+        "url": "https://youtube.com/live/s8-hid66Tq4",
+        "image": "wix:image://v1/cc154f_6be36b0122404d6e875cfe80140a9df8~mv2.jpg/ChatGPT%20Image%202025%EB%85%84%204%EC%9B%94%2011%EC%9D%BC%20%EC%98%A4%ED%9B%84%2009_29_15_edited.jpg#originWidth=1000&originHeight=1024",
+        "document": "wix:document://v1/archives/70430b_703b4b5c59684e969108233a1ba91dcb.zip/Green%205,%206%EA%B3%BC%20%EB%8B%B5%EC%A7%80.zip",
+        "_id": "97597dd1-37da-4c6d-9f46-642f3842a04f",
+        "_owner": "cc154f4f-b726-4c9b-9c83-546313419d99",
+        "_createdDate": {
+          "$date": "2025-04-22T16:03:58.540Z"
+        },
+        "_manualSort_d288c38e-41a7-4f5a-89fd-92fe09946a7c": "3",
+        "_manualSort_71e53a04-678d-4e5a-a401-0f1af077f5f8": "4",
+        "_updatedDate": {
+          "$date": "2026-02-13T12:08:41.804Z"
+        },
+        "url2": "https://youtube.com/shorts/xDPdRW5AXIM?feature=share",
+        "url1": "https://youtube.com/live/CylfhaIzmi4",
+        "title": "오늘 Live 생방송",
+        "newField": "1"
+      }
+    },
+    {
+      "id": "dd2ec1e3-2de5-4514-b299-629e57e1b67b",
+      "dataCollectionId": "Live939au0gi89as22c9z6b",
+      "data": {
+        "url": "https://youtube.com/live/s8-hid66Tq4",
+        "image": "wix:image://v1/cc154f_920435b6cb55466bb6f3546eb4d906d8~mv2.png/Ben%EC%8C%A4_%ED%8E%B8%EC%A7%91%EB%B3%B8%20(1).png#originWidth=364&originHeight=364",
+        "document": "wix:document://v1/archives/70430b_703b4b5c59684e969108233a1ba91dcb.zip/Green%205,%206%EA%B3%BC%20%EB%8B%B5%EC%A7%80.zip",
+        "_id": "dd2ec1e3-2de5-4514-b299-629e57e1b67b",
+        "_owner": "791f7148-f921-4c75-a308-1a2d43ac8e26",
+        "_createdDate": {
+          "$date": "2026-02-13T08:16:53.190Z"
+        },
+        "_manualSort_71e53a04-678d-4e5a-a401-0f1af077f5f8": "43g",
+        "_updatedDate": {
+          "$date": "2026-02-13T12:08:43.336Z"
+        },
+        "url2": "https://youtube.com/shorts/xDPdRW5AXIM?feature=share",
+        "url1": "https://youtube.com/live/CylfhaIzmi4",
+        "title": "2월13일.금.재방송",
+        "newField": "2"
+      }
+    },
+    {
+      "id": "0e6c068e-92aa-4172-8a8d-f6c384b80fd8",
+      "dataCollectionId": "Live939au0gi89as22c9z6b",
+      "data": {
+        "url": "https://youtube.com/live/DmVq4y-cknE",
+        "image": "wix:image://v1/cc154f_920435b6cb55466bb6f3546eb4d906d8~mv2.png/Ben%EC%8C%A4_%ED%8E%B8%EC%A7%91%EB%B3%B8%20(1).png#originWidth=364&originHeight=364",
+        "document": "wix:document://v1/ugd/20fbd4_98c428dda46a4bfcb3390b7727e5f44e.pdf/green%204%EA%B3%BC(%ED%95%B4%EB%8B%B5).pdf",
+        "_id": "0e6c068e-92aa-4172-8a8d-f6c384b80fd8",
+        "_owner": "791f7148-f921-4c75-a308-1a2d43ac8e26",
+        "_createdDate": {
+          "$date": "2026-01-07T01:09:03.008Z"
+        },
+        "_manualSort_71e53a04-678d-4e5a-a401-0f1af077f5f8": "43o",
+        "_updatedDate": {
+          "$date": "2026-02-13T08:17:19.206Z"
+        },
+        "url2": "https://youtube.com/shorts/dMlRD6qbYuk?feature=share",
+        "url1": "https://youtube.com/live/a27Ma8vsrfE",
+        "title": "2월11일.수.재방송",
+        "newField": "3"
+      }
+    },
+    {
+      "id": "33e59991-8cec-4fb9-ae12-13e5ab1524a4",
+      "dataCollectionId": "Live939au0gi89as22c9z6b",
+      "data": {
+        "url": "https://youtube.com/live/LLTpQiKw5P0",
+        "image": "wix:image://v1/cc154f_920435b6cb55466bb6f3546eb4d906d8~mv2.png/Ben%EC%8C%A4_%ED%8E%B8%EC%A7%91%EB%B3%B8%20(1).png#originWidth=364&originHeight=364",
+        "document": "wix:document://v1/ugd/20fbd4_dca2c90b54e749a39acbdb9fe4fd6375.pdf/green%203%EA%B3%BC(%ED%95%B4%EB%8B%B5).pdf",
+        "_id": "33e59991-8cec-4fb9-ae12-13e5ab1524a4",
+        "_owner": "70430b2c-091f-49d7-8a98-874fdf4056ef",
+        "_createdDate": {
+          "$date": "2025-10-20T09:47:15.137Z"
+        },
+        "_manualSort_71e53a04-678d-4e5a-a401-0f1af077f5f8": "44",
+        "_updatedDate": {
+          "$date": "2026-02-13T08:17:19.781Z"
+        },
+        "url2": "https://youtube.com/shorts/xjL-Y6VDx9o?feature=share",
+        "url1": "https://youtube.com/live/RhXeRRPMB6w",
+        "title": "2월9일.월.재방송",
+        "newField": "4"
+      }
+    },
+    {
+      "id": "b3991d48-cb53-4891-869a-59923376e57c",
+      "dataCollectionId": "Live939au0gi89as22c9z6b",
+      "data": {
+        "url": "https://youtube.com/live/fvDoUmq2cpw",
+        "image": "wix:image://v1/cc154f_920435b6cb55466bb6f3546eb4d906d8~mv2.png/Ben%EC%8C%A4_%ED%8E%B8%EC%A7%91%EB%B3%B8%20(1).png#originWidth=364&originHeight=364",
+        "document": "wix:document://v1/ugd/791f71_0655abfc7f624d76b73f6625e51510d3.pdf/Green%201%EA%B3%BC(%ED%95%B4%EB%8B%B5).pdf",
+        "_id": "b3991d48-cb53-4891-869a-59923376e57c",
+        "_owner": "cc154f4f-b726-4c9b-9c83-546313419d99",
+        "_createdDate": {
+          "$date": "2025-04-22T16:04:26.306Z"
+        },
+        "_manualSort_71e53a04-678d-4e5a-a401-0f1af077f5f8": "g",
+        "_updatedDate": {
+          "$date": "2026-02-13T08:17:20.922Z"
+        },
+        "url2": "https://youtube.com/shorts/Vpc0v0KRGwA?feature=share",
+        "url1": "https://youtube.com/live/3RVlydk8Jqw",
+        "title": "개강 Orientation 2월2일",
+        "newField": "5"
+      }
+    }
+  ],
+  "기타": []
+}
